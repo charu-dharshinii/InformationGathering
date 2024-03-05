@@ -17,6 +17,7 @@ Investigate on the various categories of tools as follows:
 ### Step 3:
 Open terminal/browser and try execute necessary commands/use url to perform information gathering
 
+
 ## Pen Test Tools Categories:  
 
 Following Categories of pen test tools are identified for information gathering:
@@ -139,6 +140,7 @@ sudo traceroute  www.saveetha.ac.in
 ## Output:
 
 ![Screenshot from 2023-05-15 04-53-50](https://github.com/A-Thiyagarajan/InformationGathering/assets/118707693/00a45edd-a2df-4cc6-858c-87d5b4a6b659)
+
 
 
 
